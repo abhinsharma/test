@@ -1,4 +1,4 @@
-function test() {
+dszfunction test() {
 
       /*
       This is a test fd
